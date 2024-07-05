@@ -23,7 +23,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/serhii-kushnerov-637906270" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="serhii-kushnerov-637906270" height="30" width="40" /></a>
 <a href="https://discord.gg/9tD2RPpygu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/9tD2RPpygu" height="30" width="40" /></a>
-<a href="https://discord.gg/https://discord.gg/9tD2RPpygu" target="blank"><img align="center" src="tgIcon.svg" alt="https://discord.gg/9tD2RPpygu" height="30" width="40" /></a>
+<a href="https://discord.gg/https://discord.gg/9tD2RPpygu" target="blank"><img align="center" src="icons8-telegram.svg" alt="https://discord.gg/9tD2RPpygu" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
