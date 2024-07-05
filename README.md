@@ -9,20 +9,21 @@
 
 - 🤝 I’m looking for help with **studying neural networks, how they work.**
 
-- 📝 I regularly write articles on [https://www.patreon.com/SerhiiKushnerov](https://www.patreon.com/SerhiiKushnerov)
+- 📝 I regularly write articles on [www.patreon.com](https://www.patreon.com/SerhiiKushnerov)
 
 - 💬 Ask me about **java, spring and c#.**
 
 - 📫 How to reach me **serhiikushnerov@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1mjVXEO1BXwjGrVxwOvm8Z3tEgskodc7E/view?usp=sharing](https://drive.google.com/file/d/1mjVXEO1BXwjGrVxwOvm8Z3tEgskodc7E/view?usp=sharing)
+- 📄 Know about my experiences [here (CV on google.drive)](https://drive.google.com/file/d/1mjVXEO1BXwjGrVxwOvm8Z3tEgskodc7E/view?usp=sharing)
 
 - ⚡ Fun fact **I really needed math analysis**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/serhii-kushnerov-637906270" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="serhii-kushnerov-637906270" height="30" width="40" /></a>
-<a href="https://discord.gg/https://discord.gg/9tD2RPpygu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/9tD2RPpygu" height="30" width="40" /></a>
+<a href="https://discord.gg/9tD2RPpygu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/9tD2RPpygu" height="30" width="40" /></a>
+<a href="https://discord.gg/https://discord.gg/9tD2RPpygu" target="blank"><img align="center" src="tgIcon.svg" alt="https://discord.gg/9tD2RPpygu" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
