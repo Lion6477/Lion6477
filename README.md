@@ -1,23 +1,13 @@
 <h1 align="center">Hi 👋, I'm Serhii</h1>
-<h3 align="center">I am a beginner IT specialist in the field of backend development from Ukraine.</h3>
+<h3 align="center">I am a backend developer from Ukraine.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lion6477" alt="lion6477" /></a> </p>
 
-- 🔭 I’m currently working on **A neural network for detecting objects using data from ground penetrating radars.**
+- You alvays can ask me about **java - spring, c#, python - cv and tensorflov.**
 
-- 🌱 I’m currently learning **tensorflow, pytorch and writing a neural network myself completely from scratch.**
+- How to reach me? -> **serhiikushnerov@gmail.com**
 
-- 🤝 I’m looking for help with **studying neural networks, how they work.**
-
-- 📝 I regularly write articles on [www.patreon.com](https://www.patreon.com/SerhiiKushnerov)
-
-- 💬 Ask me about **java, spring and c#.**
-
-- 📫 How to reach me **serhiikushnerov@gmail.com**
-
-- 📄 Know about my experiences [here (CV on google.drive)](https://drive.google.com/file/d/1mjVXEO1BXwjGrVxwOvm8Z3tEgskodc7E/view?usp=sharing)
-
-- ⚡ Fun fact **I really needed math analysis**
+- Know about my experiences [here (CV on google.drive)](https://drive.google.com/file/d/1mjVXEO1BXwjGrVxwOvm8Z3tEgskodc7E/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
