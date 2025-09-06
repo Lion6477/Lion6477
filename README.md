@@ -7,7 +7,7 @@
 
 - How to reach me? -> **serhiikushnerov@gmail.com**
 
-- Know about my experiences [here (CV on google.drive)](https://drive.google.com/file/d/1mjVXEO1BXwjGrVxwOvm8Z3tEgskodc7E/view?usp=sharing)
+- Know about my experiences [here (CV on google.drive)](https://drive.google.com/file/d/1TW3Jb8eim0TIn30_ywQ6CWAXFRnPNswZ/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
