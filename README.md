@@ -5,9 +5,12 @@
 
 - You alvays can ask me about **java - spring, c#, python - cv and tensorflov.**
 
+- You can order Minecraft mods from me.
+
 - How to reach me? -> **serhiikushnerov@gmail.com**
 
 - Know about my experiences [here (CV on google.drive)](https://drive.google.com/file/d/1TW3Jb8eim0TIn30_ywQ6CWAXFRnPNswZ/view?usp=sharing)
+  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
