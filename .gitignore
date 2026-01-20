@@ -1,0 +1,61 @@
+# OS / System
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# JetBrains / IntelliJ / PyCharm
+.idea/
+*.iml
+*.ipr
+*.iws
+out/
+.intellij/
+
+# VS Code
+.vscode/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+.venv/
+venv/
+env/
+ENV/
+pip-wheel-metadata/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.pyre/
+.pytype/
+coverage/
+htmlcov/
+.coverage
+dist/
+build/
+*.egg-info/
+.eggs/
+
+# Node
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+.DS_Store
+
+# Logs / temp
+*.log
+*.tmp
+*.swp
+*.swo
+*~
+
+# GitHub profile repo specific
+.github/
+
+.env
+.env.*
+!.env.example
