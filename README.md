@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="./assets/avatar_round.png" width="140" alt="avatar" />
-</p>
+
 
 <p align="center">
   Backend Engineer • Java/Spring & Python<br/>
@@ -10,7 +8,7 @@
 
 <p align="center">
   <a href="mailto:serhiikushnerov@gmail.com">serhiikushnerov@gmail.com</a> ·
-  <a href="https://linkedin.com/in/serhii-kushnerov-637906270">LinkedIn</a> ·
+  <a href="https://www.linkedin.com/in/serhii-kushnerov/">LinkedIn</a> ·
   <a href="https://t.me/Lion6477">Telegram</a>
 </p>
 
