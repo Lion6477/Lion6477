@@ -3,7 +3,6 @@
 <p align="center">
   Backend Engineer • Java/Spring & Python<br/>
   APIs • integrations • PostgreSQL • Docker • Prometheus<br/>
-  🇺🇦
 </p>
 
 <p align="center">
@@ -12,11 +11,9 @@
   <a href="https://t.me/Lion6477">Telegram</a>
 </p>
 
-<p align="center"><i>“Production is a feature, not a place.”</i></p>
-
 <hr/>
 
-<h3>🧠 What I do (aka “why production is not on fire today”)</h3>
+<h3>🧠 What I do</h3>
 <ul>
   <li>Build boringly reliable backend services: REST APIs, integrations, background jobs.</li>
   <li>Keep things observable: metrics-first (Prometheus), logs, and fast root-cause debugging.</li>
